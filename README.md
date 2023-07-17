@@ -7,3 +7,4 @@ list of practice projects
 4. arrsum2d - reads 2d array, prints and gives sum.
 5. arrtranspose - transposes a matrix
 6. 2d colrowsum.c - adds values for columns and rows
+7. maxtrixmultiply.c - multiplies 2 matrices
