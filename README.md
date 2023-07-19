@@ -8,3 +8,4 @@ list of practice projects
 5. arrtranspose - transposes a matrix
 6. 2d colrowsum.c - adds values for columns and rows
 7. maxtrixmultiply.c - multiplies 2 matrices
+8. stringcat.c - concatanates string
