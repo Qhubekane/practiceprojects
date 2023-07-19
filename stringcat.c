@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// concatenates strings
+// concatenates strings without using strcat
 
 #define N 50
 
