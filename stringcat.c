@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// concatenates strings
+
 #define N 50
 
 int main()
