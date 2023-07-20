@@ -10,3 +10,4 @@ list of practice projects
 7. maxtrixmultiply.c - multiplies 2 matrices
 8. stringcat.c - concatenates string without using strncat
 9. strncat.c - concatenates string using strncat
+10. nostrcmp.c - compared 2 strings without using strcmp
